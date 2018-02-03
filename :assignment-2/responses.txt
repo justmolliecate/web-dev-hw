@@ -1,0 +1,14 @@
+### How does data travel on the internet?
+* data travels through the internet on things called packages, where the image or whatnot is broken up into several pieces and reconnects on the other side to form a whole image again.
+
+### What is an IP address and DNS?
+* An IP address is a string of numbers broken up with dots that identify every computer and device.
+* A DNS is basically a phone book of these IP addresses.
+
+### What is a cookie?
+* A cookie is data stored in the users browser for a particular site. They are used to remember information about the user such as login information and shopping cart information.
+
+### List the three basics parts of the URL:
+* Protocol
+* Domain name
+* Path
