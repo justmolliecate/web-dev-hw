@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<title>My First Webpage</title>
+<body>
+<h2>Thirteen Ways of Looking at a Blackbird</h2>
+
+<h4>by Wallace Stevens</h4>
+
+<h4>Brought to you by Mollie Lemm</h4>
+<hr />
+<p>IV<br />
+A man and a woman<br />
+Are one.<br />
+A man and a woman and a blackbird<br />
+Are one.<br />
+<br />
+V<br />
+I do not know which to prefer,<br />
+The beauty of inflections<br />
+Or the beauty of innuendoes,<br />
+The blackbird whistling<br />
+Or just after.<br />
+</p>
+<img src="images/blackbird.png">
+</body>
+</html>
