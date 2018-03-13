@@ -10,6 +10,6 @@
 
 <h3>Work Cycle</h3>
 
-<p>For this work cycle, I chose to hightlight Fun. because I have been skiing a lot recently and it is my favorite band to listen to whilst shreddin' the gnar. During the work cycle, I ran into some problems trying to embed the animation because I didn't quite understand the type element. I worked through that by looking for examples online and seeing what I was missing. Everything else was pretty straightforward.</p>
+<p>For this work cycle, I chose to hightlight Fun. because I have been skiing a lot recently and it is my favorite band to listen to whilst shreddin' the gnar. During the work cycle, I ran into some problems trying to embed the animation because I didn't quite understand the type element. I also had a little trouble with the class element. I worked through that by looking for examples online and seeing what I was missing. Everything else was pretty straightforward.</p>
 
 <img src="./images/workcycle.png" alt="Screenshot of work in progress" title="Work Cycle" width="678.5" height="360.5" />
