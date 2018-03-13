@@ -6,8 +6,7 @@
 
 <h3>Why would I choose a third party hosting site??</h3>
 
-<p>I personally would choose a third party hosting site because it doesn't take up my bandwidth, I don't need to worry about people downloading it, and quite frankly, it is much easier to do.
-</p>
+<p>I personally would choose a third party hosting site because it doesn't take up my bandwidth, I don't need to worry about people downloading it, and quite frankly, it is much easier to do.</p>
 
 <h3>Work Cycle</h3>
 
