@@ -1,0 +1,55 @@
+font.textblock1{
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 20px;
+  word-spacing: 1.5px;
+  color: #2e2e30;
+}
+
+font.textblock2{
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 20px;
+  word-spacing: 1.5px;
+  color: #2e2e30;
+}
+
+font.ld{
+    font-family: Georgia;
+    font-size: 72px;
+    color: #2e2e30;
+    letter-spacing: 2px;
+
+}
+font.rd{
+    font-family: Georgia;
+    font-size: 72px;
+    color: #2e2e30;
+    letter-spacing: 2px;
+
+}
+font.bottom{
+    font-family: Georgia;
+    font-size: 47px;
+    color: #2e2e30;
+  }
+
+  p {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 20px;
+    word-spacing: 1.5px;
+  }
+
+  font.fq-text{
+    font-family: Georgia;
+    font-size: 75px;
+    color: #2e2e30;
+
+  }
+
+  font.subtext{
+    font-family: Georgia;
+    font-size: 30px;
+    color: #2e2e30;
+  }
